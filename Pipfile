@@ -37,6 +37,8 @@ readme-renderer = {extras = ["md"],version = "*"}
 
 [packages]
 cheese-grader = {editable = true,path = "."}
+docopt = "*"
+pypi-librarian = "*"
 
 [requires]
 python_version = "3.6"
