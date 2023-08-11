@@ -8,6 +8,10 @@ But a wonderful library can be expected to have syntactically valid python, not 
 
 These criteria would be a bit weird to apply to your own code, they are too minimal or don't actually help your code run better. But these criteria are not bad for evaluating other libraries, expecially in bulk & without doing a full installation of what could be malicious code.
 
+Two big alternatives:
+
+libraries.io - CodeRank
+Package Health score, eg. https://snyk.io/advisor/python/pyrankvote
 
 Docs
 -----
